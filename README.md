@@ -5,7 +5,7 @@
 - 🤔 I’m looking for help with vision foundation model
 - 💬 Ask me about object-centric learning, especially slot attention
 - 📫 How to reach me: kfan21@m.fudan.edu.cn
-- 😄 Pronouns: he/hum
+- 😄 Pronouns: he/him
 
 <!--
 **kfan21/kfan21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
